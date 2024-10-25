@@ -1,6 +1,6 @@
 # BabyGPT: A Transformer from Scratch
 
-**BabyGPT** is a Python project that implements a Transformer model from the ground up using TensorFlow and is based on the ["Attention is All You Need"](https://arxiv.org/abs/1706.03762) paper.
+**BabyGPT** is a Python project that implements a simple Transformer model (~17M parameters) from the ground up using TensorFlow and is based on the ["Attention is All You Need"](https://arxiv.org/abs/1706.03762) paper.
 
 This project demonstrates how a Transformer can be constructed to learn and generate text based on a given input corpus, mimicking the style of the provided dataset.
 
